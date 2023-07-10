@@ -1,2 +1,2 @@
 # Scala-Learning
-This repository contain my notes and materials while learning Scala
+This repository contains my notes and materials while learning Scala
